@@ -12,11 +12,11 @@ Data Source: PWC Switzerland Virtual Internship (Forage)
 
 **Page 1**
 
-![alt text] (https://res.cloudinary.com/domkl95kr/image/upload/v1689565961/Task%202:%20page%201.jpg)
+![alt text](https://res.cloudinary.com/domkl95kr/image/upload/v1689565961/Task%202:%20page%201.jpg)
 
 **Page 2**
 
-![alt text] (https://res.cloudinary.com/domkl95kr/image/upload/v1689565971/Task%202:%20page%202.jpg)
+![alt text](https://res.cloudinary.com/domkl95kr/image/upload/v1689565971/Task%202:%20page%202.jpg)
 
 
-## Task 3: 
+
