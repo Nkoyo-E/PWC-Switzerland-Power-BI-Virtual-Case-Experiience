@@ -8,3 +8,15 @@ Data Source: PWC Switzerland Virtual Internship (Forage)
 
 ![alt text](https://res.cloudinary.com/domkl95kr/image/upload/v1690247158/Task%201:%20Call%20Centre%20Trend%20Analysis.jpg)
 
+## Task 2: Customer Rentention Analysis
+
+**Page 1**
+
+![alt text] (https://res.cloudinary.com/domkl95kr/image/upload/v1689565961/Task%202:%20page%201.jpg)
+
+**Page 2**
+
+![alt text] (https://res.cloudinary.com/domkl95kr/image/upload/v1689565971/Task%202:%20page%202.jpg)
+
+
+## Task 3: 
